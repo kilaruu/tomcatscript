@@ -1,8 +1,8 @@
 #!/bin/bash
 echo -e "\n################################################################"
 echo -e "#                                                              #"
-echo -e "#                     ***Artisan Tek***                        #"
-echo -e "#                    Tomcat Installation                       #"
+echo -e "#                 ***Tomcat Installation***                    #"
+echo -e "#                       by Teja Kilaru                         #"
 echo -e "#                                                              #"
 echo -e "################################################################"
 
